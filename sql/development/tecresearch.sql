@@ -1,0 +1,2 @@
+CREATE DATABASE tecresearch;
+SHOW DATABASES;

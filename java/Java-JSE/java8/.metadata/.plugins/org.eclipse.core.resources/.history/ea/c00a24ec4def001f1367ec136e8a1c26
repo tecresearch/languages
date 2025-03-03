@@ -1,0 +1,5 @@
+@FunctionalInterface
+public interface Calculator 
+{
+	public void sayHello(String str); 
+}

@@ -3,7 +3,7 @@
 //------>Variables<--------
 
 function fun(){
-  let one = 1; //block level scope
+let one = 1; //block level scope
 var two = 2; //global scope
 const three = 3; //cant be redefined
 console.log(one);
@@ -28,6 +28,7 @@ alert(`Welcome ${ad} to js course`); //back tick(` `) for inserting variable int
 // BigInt
 // Symbol
 // Object
+// Nan
 
 let number=null;// it can be assign later
 let x;//undefined
