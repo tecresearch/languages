@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+C:\CETPA\2025\IP\20-02\java8\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2653776762.index
+1792021732.index
+2098310830.index
+2231182809.index
+4093252943.index
+2001653327.index
+1276016391.index
+1184147733.index
+4849369.index
