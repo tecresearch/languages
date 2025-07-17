@@ -1,4 +1,4 @@
-# Core Java Mastery Syllabus
+# Core Java Mastery Syllabus(JSE)
 
 ```
 #Core Java
