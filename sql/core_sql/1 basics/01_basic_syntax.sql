@@ -112,3 +112,5 @@ DESC basics;
 
 -- Select all records from the 'basics' table to verify the final state of data
 SELECT * FROM basics;
+
+Ques1: mysql> select * from employee where trim(rm)='' ;
